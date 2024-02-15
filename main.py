@@ -44,7 +44,7 @@ def cardinal(): #t2 main.
     if jsonLoc == None: # If no json is provided, sets json to path\spriteAtlas.json
         jsonLoc = f"{spriteAtlasLoc.rsplit(chr(46), 1)[0]}.json"
         if verbosity:
-            print(f"\nNo file json file specified. Parameter modified: [location: {jsonLoc}].")
+            print(f"\nNo json file specified. Parameter modified: [location: {jsonLoc}].")
 
     try: # checks if valid json is given
         jsonFile = open(jsonLoc)
