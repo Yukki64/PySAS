@@ -89,7 +89,7 @@ main.py Atlases\demo.png -j Atlases\demo.json -o Atlases\demo -s -v
 
 Just head to [this page](https://github.com/Yukki64/PySAS/issues) and submit an issue while using the correct label(s).
 
-Enhancement, Error/Bug, Or even repo miss-configuration! (This is my first github repository!)
+Any issue goes! Enhancement, Error/Bug, repo miss-configuration... (This is my first github repository!)
 
 # License
 
